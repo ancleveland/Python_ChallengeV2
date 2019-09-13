@@ -1,1 +1,2 @@
-# Python_ChallengeV2
+# python-challenge
+Phython Homework - Week 3
