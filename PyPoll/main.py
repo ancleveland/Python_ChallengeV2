@@ -1,4 +1,3 @@
-#PYPOLL!!!!!
 import os
 import csv
 PyPoll = os.path.join('..', 'PyPoll', 'Resources', 'election_data.csv')
